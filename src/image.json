@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/cat1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/cat2.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/cat3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/cat4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/cat5.jpg",
+    "clicked": false
+  }
+]
